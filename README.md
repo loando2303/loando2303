@@ -1,9 +1,8 @@
 ### Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+My name is: Do Thi Thanh Loan
+I come from Vietnam
+Currently, I am a student at the University of Social Sciences and Humanities Viet Nam
+https://ussh.vnu.edu.vn/
 
 <!--
 **loando2303/loando2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
